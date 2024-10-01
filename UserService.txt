@@ -2,5 +2,9 @@ lirdgiegfraeiuifugrwiufiuawifaerigfgkshdviugsiuvdc
 23rh9uu2f2hed
 
 friw3iuuewieiurhfiuhwfqhgit status
+<<<<<<< HEAD
 ewfwefewefwfwefwjjjjjgit 
 jikikijhyuhg
+=======
+ewfwefewefwfwefw
+>>>>>>> features2
